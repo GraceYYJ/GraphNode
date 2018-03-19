@@ -13,7 +13,7 @@ import org.apache.hadoop.ipc.RPC;
 
 public class testMethod {
 	public static void testMethod1(String content){
-		String pathname = "/home/file/test1.txt";
+		String pathname = "/home/file/test2.txt";
 		//String pathname = "E:/test_hadoop/my jar/test.txt";
 		File file = new File(pathname);
 		try {
